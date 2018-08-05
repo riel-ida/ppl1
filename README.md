@@ -1,2 +1,0 @@
-# ppl1
-TypeScript
